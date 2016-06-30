@@ -2,7 +2,7 @@
 
 ###Getting Started###
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the dev-server with the following:
 
 ```
 	> git clone github.com/ifahrentholz/ytproj
